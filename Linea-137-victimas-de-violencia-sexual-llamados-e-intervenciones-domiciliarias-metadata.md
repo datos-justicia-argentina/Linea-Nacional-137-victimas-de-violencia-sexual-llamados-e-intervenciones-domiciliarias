@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** 137, 0800-222-1717, abusos, adolescentes, intervención domiciliaria, línea 0800, niñas, niños, sexuales, violencias, víctimas
 
--   **Organización:** Ministerio de Justicia y Derechos HumaNOs. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
 
--   **Autor:** Ministerio de Justicia y Derechos HumaNOs. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
 
--   **Responsable:** Ministerio de Justicia y Derechos HumaNOs. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Programa Las Víctimas Contra Las Violencias
 
 -   **Grupo:** Acceso a Justicia
 
@@ -589,7 +589,7 @@ Notas
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-[Formulario de denuncia - Equipo Niñ@s contra la Explotación Sexual y Grooming del Programa Las Víctimas contra Las Violencias del Ministerio de Justicia y Derechos Humanos de la Nación.](https://www2.jus.gov.ar/equipoNinos)
+[Formulario de denuncia - Equipo Niñ@s contra la Explotación Sexual y Grooming del Programa Las Víctimas contra Las Violencias del Ministerio de Justicia de la Nación.](https://www2.jus.gov.ar/equipoNinos)
 
 
 [Un análisis de los datos del Programa "Las Víctimas Contra Las Violencias" 2020-2021](http://datos.jus.gob.ar/varios/Victimas_Contra_Las_Violencias_2020-2021.pdf)
